@@ -13,12 +13,16 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1 className={`${styles.title} font-bold !mb-8`}>
           Welcome to <a href="https://nextjs.org">Next.js</a> +{' '}
           <a href="https://typescriptlang.org">Typescript</a> 👋
         </h1>
 
-        <p className={styles.description}>
+        <p className="bg-blue-600 shadow-md shadow-blue-300 text-slate-100 text-xl p-2 rounded select-none transition duration-300 hover:scale-110 hover:-rotate-2">
+          Style amazingly with Tailwind CSS 🙌
+        </p>
+
+        <p className={`${styles.description} !mx-0 !my-8`}>
           Get started by editing{' '}
           <code className={styles.code}>src/pages/index.tsx</code>
         </p>
