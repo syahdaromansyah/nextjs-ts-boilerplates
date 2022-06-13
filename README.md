@@ -15,7 +15,7 @@ npx degit https://github.com/syahdaromansyah/nextjs-ts-boilerplates project-name
 ```bash
 # Install project dependencies
 yarn
-#or
+# or
 yarn install
 ```
 
