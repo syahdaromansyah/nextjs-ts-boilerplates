@@ -7,6 +7,12 @@ A boilerplates project integrating with [Next](https://nextjs.org) + [Typescript
 ## Getting Started
 
 ```bash
+# Get copied project
+npx degit https://github.com/syahdaromansyah/nextjs-ts-boilerplates project-name
+
+```
+
+```bash
 # Install project dependencies
 yarn
 #or
