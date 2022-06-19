@@ -6,10 +6,11 @@ A boilerplates project integrating with [Next](https://nextjs.org) + [Typescript
 
 ## Getting Started
 
-Get copied project
-
-```
-npx degit https://github.com/syahdaromansyah/nextjs-ts-boilerplates#with-tailwindcss project-name
+```bash
+# Get copied project
+npx degit https://github.com/syahdaromansyah/nextjs-ts-boilerplates project-name
+# or
+npx degit https://github.com/syahdaromansyah/nextjs-ts-boilerplates#branch-name project-name
 ```
 
 ```bash
